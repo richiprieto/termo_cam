@@ -1,5 +1,5 @@
 /****************************************************************************** 
-Basado en:
+Cambios basados en el script original:
 MLX90614_Serial_Demo.ino
 Serial output example for the MLX90614 Infrared Thermometer
 
